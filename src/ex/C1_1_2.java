@@ -1,5 +1,7 @@
 package ex;
-
+/*
+ *说明Java的代码说明 
+ */
 
 public class C1_1_2 {
 	public static void main(String[] args) {
