@@ -1,6 +1,6 @@
 package ex;
 /*
- *说明Java的代码说明 
+ *浮点计算 数据类型自动转换
  */
 
 public class C1_1_2 {
