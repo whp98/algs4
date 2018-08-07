@@ -1,7 +1,7 @@
 package ex;
 
 /*
- * 这是求费波那西数列的算法
+ * 求费波那西数列
  */
 public class C1_1_6 {
 	public static void main(String[] args) {
