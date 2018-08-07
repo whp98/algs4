@@ -1,5 +1,9 @@
 package ex;
 
+/*
+ * 用牛顿迭代法求平方根
+ * 
+ */
 public class C1_1_7 {
 	public static void main(String[] args) {
 		// 用于计算平方根的代码
@@ -11,6 +15,7 @@ public class C1_1_7 {
 		// 自己实现相同的功能
 		// 完善功能代码块
 		{
+			// wht就是要开方得数
 			double wht = 2;
 			double res = wht;
 			double xx = wht;
@@ -28,8 +33,8 @@ public class C1_1_7 {
 					sum++;
 			System.out.println(sum);
 		}
-		
-		//简单求和问题求和次数由for中的条件决定
+
+		// 简单求和问题求和次数由for中的条件决定
 		{
 			int sum = 0;
 			for (int i = 1; i < 1000; i *= 2)
