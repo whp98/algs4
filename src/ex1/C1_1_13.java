@@ -1,4 +1,4 @@
-package ex;
+package ex1;
 
 /*
  * 编写矩阵转置代码

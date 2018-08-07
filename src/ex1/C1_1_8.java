@@ -1,4 +1,4 @@
-package ex;
+package ex1;
 
 //这里主要是演示类型的自动转换的方式
 public class C1_1_8 {

@@ -1,4 +1,4 @@
-package ex;
+package ex1;
 /*
  *浮点计算 数据类型自动转换
  */

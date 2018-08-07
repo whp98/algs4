@@ -1,4 +1,4 @@
-package ex;
+package ex1;
 
 /*
  * 用牛顿迭代法求平方根

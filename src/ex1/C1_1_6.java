@@ -1,4 +1,4 @@
-package ex;
+package ex1;
 
 /*
  * 求费波那西数列

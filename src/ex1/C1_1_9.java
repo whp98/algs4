@@ -1,4 +1,4 @@
-package ex;
+package ex1;
 
 //实现从整数转换为二进制的字符串的形式
 public class C1_1_9 {

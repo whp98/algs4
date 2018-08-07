@@ -1,4 +1,4 @@
-package ex;
+package ex1;
 
 public class C1_1_4 {
 	public static void main(String[] args) {

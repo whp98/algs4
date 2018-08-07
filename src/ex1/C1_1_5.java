@@ -1,4 +1,4 @@
-package ex;
+package ex1;
 
 /*
  * 编写程序实现判断两个double是否都位于0.0和1.0之间

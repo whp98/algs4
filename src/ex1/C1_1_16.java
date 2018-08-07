@@ -1,4 +1,4 @@
-package ex;
+package ex1;
 
 //一种用于处理数字的递归算法
 public class C1_1_16 {

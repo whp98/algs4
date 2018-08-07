@@ -1,4 +1,4 @@
-package ex;
+package ex1;
 
 //没有啥意义的代码，只是跑跑看看结果
 public class C1_1_12 {
