@@ -1,4 +1,5 @@
 package ex;
+
 //没有啥意义的代码，只是跑跑看看结果
 public class C1_1_12 {
 	public static void main(String[] args) {
