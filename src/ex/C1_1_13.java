@@ -28,9 +28,9 @@ public class C1_1_13 {
 	public static void print(int[][] a) {
 		int x = a.length;
 		int y = a[0].length;
-		for(int i = 0; i<x; i++) {
-			for(int j = 0; j <y; j++) {
-				 System.out.print("\t"+a[i][j]);
+		for (int i = 0; i < x; i++) {
+			for (int j = 0; j < y; j++) {
+				System.out.print("\t" + a[i][j]);
 			}
 			System.out.println();
 		}
