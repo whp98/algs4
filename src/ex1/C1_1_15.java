@@ -16,7 +16,8 @@ public class C1_1_15 {
 		int[] s = { 4, 5, 6, 8, 9, 6, 4, 1, 4, 6, 9 };
 		int[] a = histogram(s, 10);
 		System.out.println(Arrays.toString(a));
-		
+		int[] a1 = histogram(t, 10);
+		System.out.println(Arrays.toString(a1));
 	}
 
 	public static int[] histogram(int[] a, int M) {
